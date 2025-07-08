@@ -1,6 +1,6 @@
-## К сожалению папки data и results оказались слишком большими, поэтому мне пришлось разместить их на Гугл диске
-
-https://drive.google.com/file/d/1blRq75kOd66QlVqzm4Natdyx5PZFGTjm/view?usp=sharing
+data и results на Гугл диске:
+	
+[https://drive.google.com/file/d/1blRq75kOd66QlVqzm4Natdyx5PZFGTjm/view?usp=sharing](https://drive.google.com/drive/folders/1cRNOMnbqGuw9pz7nDQxywLjXBwutQyUq?usp=sharing)
 
 # Задание 1: Стандартные аугментации torchvision (15 баллов)
 
